@@ -1,3 +1,5 @@
+## An example of logger extension for dynamic message content and Azure App Insights customDimensions
+
 ### Init logger
 
 ```python
